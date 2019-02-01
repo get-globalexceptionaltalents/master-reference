@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/get-globalexceptionaltalents/master-reference/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## <center> **[GET] GLOBAL EXCEPTIONAL TALENTS** </center>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### **FOUNDER**
+#### _Rana Alqrenawi_  [Twitter](https://twitter.com/ranaalqrenawi) | [LinkedIn](https://www.linkedin.com/in/ranaalqrenawi/) | [Medium](https://medium.com/@ranaalqrenawi) | [GitHub](https://github.com/RanaAlqrenawi) | [Email](rana@zinc-mission2.com)
 
-```markdown
-Syntax highlighted code block
+### **PROBLEM**
+###### <p align="justify"> Muslim women in Europe are inactive economically and don’t identify themselves as creative workers while they are highly educated and speak English fluently. This is due to several reasons classified to _internal factors_ in their communities and lifestyle (e.g. family caregiver, culture sensitivity, .. ) and _external factors_ in the community around and the market (e.g. discrimination and racism, inflexible working practices, .. ). </p>
 
-# Header 1
-## Header 2
-### Header 3
+###### <p align="justify"> On the other hand, a massive shortage is still in the Software Engineering Industry. The tech sector in the UK as an example reports that its greatest challenge is accessing the talents (TechNation Report 2018)). Furthermore, the tech sector experiences significant difficulty in increasing the gender and ethnic diversity of the workforce - particularly in leadership roles. This is increasingly a priority for government and public perception of companies. </p>
 
-- Bulleted
-- List
+### **TARGET AUDIENCE**
 
-1. Numbered
-2. List
+###### <p align="justify"> The Users: The Muslim Women in the isolated communities in Europe who are currently inactive economically. Ideally, the UK will be the base and the start of the business and the young Muslim women who are at the A level or first-second level of University will be the best group to test with.</p>
 
-**Bold** and _Italic_ and `Code` text
+###### <p align="justify"> The Customers: The clients who are likely to prefer getting access to the talents through the freelancing or outsourcing models to reduce the cost and the risk of having full-time regular employees. Such clients don’t necessarily need to be big companies, they are more likely to be SMEs who can’t afford the high cost to get the advantage of the latest technology in the market. </p>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### **IDEA**
 
-### Jekyll Themes
+###### <p align="justify"> Develop a community of unique talents and connecting them to the market. The vision is to unlock new opportunities for highly talented young Muslim women in the tech market so they materialize the future of Software Engineering by their aspiration and special skill-sets. </p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/get-globalexceptionaltalents/master-reference/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+###### <p align="justify"> The product is based on six main pillars categorised in two lines:
+###### LINE1:  Communities’ Engagement & Development [Discover, Empower, Develop] </p>
+###### <p align="justify"> LINE2: Jobs’ Accessibility & Evolution  [Network, Communicate, Work] </p>
 
-### Support or Contact
+### **HELP**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###### 1. Networks and Connections
+             a. Community builders and groups (Muslim, Women, Tech, .. )
+             b. Tech Ecosystem (Tech experts, HR consultants, Tech Firms, .. )
+             c. Training Academies ( Tech Training, Tech Academies, .. )
+             d. Schools and University Admins (Students’ IT clubs, Campuses, Groups or circles, .. )
+###### 2. User Test Groups
+            a. SMEs
+            b. Incubators and Accelerators
+            c. NHS and any clinics or health centres’ recruiters
+###### 3. Learning and Development methodologies
+            a. Training design and content
+            b. Training of trainers
